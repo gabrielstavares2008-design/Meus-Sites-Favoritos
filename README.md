@@ -1,6 +1,6 @@
 # Meus Sites Favoritos
 
-Projeto desenvolvido para a atividade da disciplina sobre a Sociedade da Informação e da Comunicação.
+Projeto desenvolvido para a atividade da disciplina Desenvolvimento de sistemas.
 
 ## 📌 Descrição
 Página web simples desenvolvida em HTML e CSS para armazenar e organizar links de sites favoritos de uso diário.
